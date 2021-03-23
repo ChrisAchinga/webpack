@@ -1,4 +1,8 @@
-mkdir webpack-demo
-cd webpack-demo
-npm init -y
-npm install webpack webpack-cli --save-dev
+# Webpack
+
+Benfits:
+
+assets loaded when needed
+code splitting
+
+
