@@ -1,0 +1,25 @@
+{
+  "name": "webpack-setup",
+  "version": "1.0.0",
+  "description": "Benfits:",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChrisAchinga/webpack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChrisAchinga/webpack/issues"
+  },
+  "homepage": "https://github.com/ChrisAchinga/webpack#readme",
+  "devDependencies": {
+    "jquery": "^3.6.0",
+    "webpack": "^4.28.4",
+    "webpack-cli": "^3.2.1"
+  }
+}
